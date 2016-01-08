@@ -1,0 +1,19 @@
+{
+	"id" : "Dem2Set",
+	"short_name" : "Demographics",
+	"name" : "Demographics (2 Patient Sets) - Simple Counts",
+	"description" : "This plugin compares the demographic breakdowns of two Patient Sets.",
+	"group" : "standard",
+	"plugin_version" : "1.4",
+	"changes" : "Fixed incompatibility issues with Web Client 1.7.07",
+	"i2b2_version" : "1.7.07",
+	"roles" : "[ 'DATA_LDS', 'DATA_DEID', 'DATA_PROT' ]",
+	"authors" : "[ 'Nick Benik', 'Griffin Weber, MD PhD', 'Mike Mendis' ]",
+	"institutions" : "[ 'Beth Isreal Deaconess Medical Center', 'Partners HealthCare' ]",
+	"keywords" : "[ 'analysis', 'demographics', 'webclient' ]",
+	"package" : "https://github.com/i2b2plugins/wc-Dem2Set/archive/v1.4.zip",    
+	"userManual" : "http://community.i2b2.org/wiki/display/getstarted/Getting+Started",
+	"installGuide" : "http://community.i2b2.org/wiki/display/getstarted/i2b2+Installation+Guide",
+	"configuration" : "Refer to Chapter 7.4 of the i2b2 Installation Guide",
+	"wikiSite" : "http://community.i2b2.org/wiki/dashboard.action"
+}
